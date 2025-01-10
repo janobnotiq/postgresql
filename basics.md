@@ -159,5 +159,5 @@ SELECT * FROM tablename LIMIT 10;
 SELECT version();
 ```
 
-Bu buyruqlar yordamida PostgreSQL ma'lumotlar bazasini terminal orqali samarali boshqarishingiz mumkin! Agar qo'shimcha yordam kerak bo'lsa, menga xabar qiling. 😊
+Bu buyruqlar yordamida PostgreSQL ma'lumotlar bazasini terminal orqali samarali boshqarishingiz mumkin!
 
